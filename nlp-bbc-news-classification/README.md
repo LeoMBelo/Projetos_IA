@@ -1,4 +1,4 @@
-Classificação de Notícias com NLP Clássico vs BERT
+# Classificação de Notícias com NLP Clássico vs BERT
 
 **Ideia Geral**
 Este projeto investiga como diferentes abordagens de Processamento de Linguagem Natural (NLP) se comportam em uma tarefa de classificação multiclasse de textos.
